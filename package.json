@@ -1,0 +1,14 @@
+{
+  "name": "weigh-machine",
+  "version": "0.0.1",
+  "description": "Test module for detect weigh machine port and input datas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Master",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^10.4.0"
+  }
+}
